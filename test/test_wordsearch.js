@@ -35,4 +35,15 @@ describe("#wordSearch()", function() {
 
     assert.isTrue(result);
   });
+
+  xit('should handle backwards words', () => {
+
+  });
+  it('should handle diagonals')
+
+  it('should throw an error if no puzzle is passed as an argument');
+  it('should throw an error if the puzzle is not an array');
+  it('should throw an error if the word is not a string')
+  it('should ignore case')
+
 });
